@@ -8,8 +8,9 @@ My secondary aim is to create a python application/function that can evaluate my
 
 ```#####- 90%```
 
-Model can predict image with about `76%` accuracy with the help of **hyperparameter** tuning to so my model can find out the best possible model compilation parameters for a much higher accuracy.
+Model can predict image with about `61%` accuracy with the help of **hyperparameter** tuning to so my model can find out the best possible model compilation parameters for a much higher accuracy, The low model accuracy is due to not running the ML for long enough on enough nodes, with a longer runtime and a deeper Neural Network we will get.
 
+```9s 7ms/step - loss: 1.0964 - accuracy: 0.6168 - val_loss: 1.3775 - val_accuracy: 0.5334```
 
 A simple Python function can intake all images in same file and predict what they are however this is currently ugly and not very user freindly 
 
