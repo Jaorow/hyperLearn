@@ -1,4 +1,4 @@
-# Python ML Image Gueser
+# HYPERLEARN - Python ML Image Gueser
 
 My aim is to train a Deep Neural Network for item/animal detection to be able to have a model determine the probability that there is mentioned item/animal. 
 
